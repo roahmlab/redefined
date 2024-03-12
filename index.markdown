@@ -264,6 +264,15 @@ The following videos demonstrate more results of REDEFINED operating in our MATL
   </div>
 </div> 
 
+<div markdown="1" class="justify">
+  
+# [Related Projects](#related-projects)
+  
+* [REFINE: Reachability-based Trajectory Design using Robust Feedback Linearization and Zonotopes](https://roahmlab.github.io/REFINE_website/)
+
+
+<div markdown="1" class="content-block grey justify">
+
 <div markdown="1" class="content-block grey justify">
 # Citation
 
