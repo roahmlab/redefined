@@ -217,7 +217,7 @@ The following videos demonstrate the performance of REDEFINED to [REFINE](https:
   </div>
 </div> 
 
-
+<div markdown="1" class="justify">
 # More Simulation Results
 The following videos demonstrate more results of REDEFINED operating in our MATLAB simulator.
 
@@ -248,20 +248,7 @@ The following videos demonstrate more results of REDEFINED operating in our MATL
       Your browser does not support this video.
     </video>
   </div>
-    <div class="video-item" style="min-width:0;">
-    <video
-      preload="auto"
-      autoplay
-      controls
-      playsinline
-      muted
-      loop
-      style="display:block; width:100%; height:auto; margin-left:auto; margin-right:auto;">
-      <source src="assets/REDEFINED-391.mp4" type="video/mp4">
-      Your browser does not support this video.
-    </video>
-  </div>
-    <div class="video-item" style="min-width:0;">
+  <div class="video-item" style="min-width:0;">
     <video
       preload="auto"
       autoplay
@@ -275,7 +262,6 @@ The following videos demonstrate more results of REDEFINED operating in our MATL
     </video>
   </div>
 </div> 
-
 
 <div markdown="1" class="content-block grey justify">
 # Citation
