@@ -218,6 +218,7 @@ The following videos demonstrate the performance of REDEFINED to [REFINE](https:
 </div> 
 
 <div markdown="1" class="justify">
+
 # More Simulation Results
 The following videos demonstrate more results of REDEFINED operating in our MATLAB simulator.
 
