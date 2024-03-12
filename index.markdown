@@ -217,7 +217,10 @@ The following videos demonstrate the performance of REDEFINED compared to [REFIN
   </div>
 </div> 
 
-<div markdown="1" class="justify">
+</div>  <!-- END RESULTS -->
+
+<!-- START MORE RESULTS -->
+<!-- <div markdown="1" class="justify"> 
 
 # More Simulation Results
 The following videos demonstrate more results of REDEFINED operating in our MATLAB simulator.
@@ -264,14 +267,16 @@ The following videos demonstrate more results of REDEFINED operating in our MATL
   </div>
 </div> 
 
+</div> --> 
+<!-- END MORE RESULTS --> 
+
 <div markdown="1" class="justify">
   
 # [Related Projects](#related-projects)
   
 * [REFINE: Reachability-based Trajectory Design using Robust Feedback Linearization and Zonotopes](https://roahmlab.github.io/REFINE_website/)
 
-
-<div markdown="1" class="content-block grey justify">
+</div>
 
 <div markdown="1" class="content-block grey justify">
 # Citation
