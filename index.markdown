@@ -118,7 +118,7 @@ released upon acceptance of this manuscript.
 <div markdown="1" class="content-block grey justify">
 
 # Simulation Results
-The following videos demonstrate the performance of REDEFINED to [REFINE](https://roahmlab.github.io/REFINE_website/) under a time limit of 0.35s, 0.30s and 0.25s for each planning iteration. In all the shown cases REFINE is unable to find a feasible solution within the specified time limit so it stops, while REDEFINED is able to constantly find feasible solutions and finally reach the goals.
+The following videos demonstrate the performance of REDEFINED compared to [REFINE](https://roahmlab.github.io/REFINE_website/) under a time limit of 0.35s, 0.30s and 0.25s for each planning iteration. In all the shown cases REFINE is unable to find a feasible solution within the specified time limit so it stops, while REDEFINED is able to constantly find feasible solutions and finally reach the goals.
 
 ## 0.35s Time Limit
 
