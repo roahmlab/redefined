@@ -64,7 +64,7 @@ links:
 
 ---
 
-# Overview
+<!-- # Overview
 <div class="fullwidth video-container" style="flex-wrap:nowrap; padding: 0 0.2em">
   <div class="video-item" style="min-width:0;">
     <video
@@ -79,7 +79,7 @@ links:
       Your browser does not support this video.
     </video>
   </div>
-</div> 
+</div> -->
 
 
 <!-- BEGIN ABSTRACT -->
@@ -120,7 +120,6 @@ released upon acceptance of this manuscript.
 # Simulation Results
 The following videos demonstrate the performance of REDEFINED to [REFINE](https://roahmlab.github.io/REFINE_website/) under a time limit of 0.35s, 0.30s and 0.25s for each planning iteration. In all the shown cases REFINE is unable to find a feasible solution within the specified time limit so it stops, while REDEFINED is able to constantly find feasible solutions and finally reach the goals.
 
-<!-- START RANDOM VIDEOS -->
 ## 0.35s Time Limit
 
 <div class="fullwidth video-container" style="flex-wrap:nowrap; padding: 0 0.2em">
@@ -217,7 +216,65 @@ The following videos demonstrate the performance of REDEFINED to [REFINE](https:
     <p align="center">REFINE operating with 0.25s time limit</p>
   </div>
 </div> 
-<!-- END RANDOM VIDEOS -->
+
+
+# More Simulation Results
+The following videos demonstrate more results of REDEFINED operating in our MATLAB simulator.
+
+<div class="fullwidth video-container" style="flex-wrap:nowrap; padding: 0 0.2em">
+  <div class="video-item" style="min-width:0;">
+    <video
+      preload="auto"
+      autoplay
+      controls
+      playsinline
+      muted
+      loop
+      style="display:block; width:100%; height:auto; margin-left:auto; margin-right:auto;">
+      <source src="assets/REDEFINED-3.mp4" type="video/mp4">
+      Your browser does not support this video.
+    </video>
+  </div>
+  <div class="video-item" style="min-width:0;">
+    <video
+      preload="auto"
+      autoplay
+      controls
+      playsinline
+      muted
+      loop
+      style="display:block; width:100%; height:auto; margin-left:auto; margin-right:auto;">
+      <source src="assets/REDEFINED-7.mp4" type="video/mp4">
+      Your browser does not support this video.
+    </video>
+  </div>
+    <div class="video-item" style="min-width:0;">
+    <video
+      preload="auto"
+      autoplay
+      controls
+      playsinline
+      muted
+      loop
+      style="display:block; width:100%; height:auto; margin-left:auto; margin-right:auto;">
+      <source src="assets/REDEFINED-391.mp4" type="video/mp4">
+      Your browser does not support this video.
+    </video>
+  </div>
+    <div class="video-item" style="min-width:0;">
+    <video
+      preload="auto"
+      autoplay
+      controls
+      playsinline
+      muted
+      loop
+      style="display:block; width:100%; height:auto; margin-left:auto; margin-right:auto;">
+      <source src="assets/REDEFINED-35100.mp4" type="video/mp4">
+      Your browser does not support this video.
+    </video>
+  </div>
+</div> 
 
 
 <div markdown="1" class="content-block grey justify">
