@@ -279,6 +279,20 @@ The following videos demonstrate more results of REDEFINED operating in our MATL
 </div>
 
 <div markdown="1" class="content-block grey justify">
-# Citation
+
+  # [Citation](#citation)
 
 This project was developed in [Robotics and Optimization for Analysis of Human Motion (ROAHM) Lab](http://www.roahmlab.com/) at University of Michigan - Ann Arbor.
+
+```bibtex
+@misc{michaux2024redefined,
+      title={Reachability-based Trajectory Design via Exact Formulation of Implicit Neural Signed Distance Functions}, 
+      author={Jonathan Michaux and Qingyi Chen and Challen Enninful Adu and Jinsun Liu and Ram Vasudevan},
+      year={2024},
+      eprint={2403.12280},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
+</div>
+
