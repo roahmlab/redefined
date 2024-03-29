@@ -46,7 +46,7 @@ links:
   - icon: arxiv
     icon-library: simpleicons
     text: ArXiv
-    # TODO url: https://arxiv.org/abs/2402.08857
+    url: https://arxiv.org/abs/2403.12280
   - icon: github
     icon-library: simpleicons
     text: Code
